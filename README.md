@@ -1,7 +1,7 @@
 "# first_git" 
 
 to test remote repository.  
-ÇÑ±Û µ¥½ºÆ®. 
+한글 테스트. 
 
 ---
 
